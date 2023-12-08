@@ -1,5 +1,5 @@
 #### Introduction:
-**"Blogging System"** is your all-in-one solution for streamlined blog management. Whether you're an individual blogger or part of an organization, our user-friendly platform is designed to make blog management easy and efficient. It simplifies content creation, publication, and engagement, allowing you to focus on what you do best – creating great content!
+**Blogging System** is your all-in-one solution for streamlined blog management. Whether you're an individual blogger or part of an organization, our user-friendly platform is designed to make blog management easy and efficient. It simplifies content creation, publication, and engagement, allowing you to focus on what you do best – creating great content!
 
 #### Tech Stack:
 Our system is built with TypeScript, React, Next.js, Tailwind CSS, CSS modules, Redux, Jest, GitHub Actions, NestJS, Mongoose, MongoDB, Docker, and much more!
