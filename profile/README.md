@@ -1,5 +1,3 @@
-### Blogging System:
-
 #### Introduction:
 **"Blogging System"** is a user-friendly platform designed to make blog management easy and efficient. Whether you're an individual blogger or part of an organization, our system simplifies content creation, publication, and engagement, helping you focus on what you do best – creating great content!
 
